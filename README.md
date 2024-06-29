@@ -1,15 +1,41 @@
-# 💫 About Me:
-I am a software dev:<br>-Currently working on LLMs<br>-Learning Git, OOPs, SOLID, DBs<br>-Want start Front-end+Back-end<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=500&color=FF0066&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!;I+am+Lazizbek!">
+</div>
 
+<h3 align="center">:octocat: Creative Frontend developer from Uzbekistan.</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ssaintx) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ssaintx) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22857896) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@ssaintx) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ssaintx&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ssaintx&theme=swift&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssaintx&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  
+  ☄️ Want to decome **Fullstack Developer**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  💻 Working on **Projects**
+
+  🤖 Learing **DL/ML**
+  
+</div>
+
+<div align="center">
+  <a href="mailto:saintx.git@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/NONAME_JS"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ssaintx"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+<br/>
+
+<h3 align="center">⚛️ My skills</h3>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,tailwind,git,github,nextjs,react,vue,threejs,python,c,java,ps,pr,html,css&perline=5" />
+  </a>
+</div>
+
+<br/>
+
+<h3 align="center">📈 My contributions</h3>
+
+<div align="center">
+  <img alt="Contribution snake" src="">
+</div>
